@@ -9,7 +9,7 @@
         </a>
         <nav id="navmenu" class="navmenu">
             <ul>
-                <li><a href="#hero" class="active">Home</a></li>
+                <li><a href="#hero" class="active">Homeaaa</a></li>
                 <li><a href={{ route('students.showStudents') }}>Student</a></li>
                 <li><a id="usersIndex" href={{ route('users.index') }}>Users</a></li>
             </ul>
